@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to Turing School of Software & Design! We are a mission-driven organization dedicated to training a diverse and inclusive community of software developers. Our goal is to unlock human potential by providing a rigorous and supportive learning environment.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+At Turing, we believe in the power of education to transform lives and create opportunities. Our curriculum is designed to prepare students for successful careers in software development, focusing on both technical skills and professional growth.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Learn more about our programs, values, and community at [turing.edu](https://turing.edu).
 
-
-[jekyll-organization]: https://github.com/jekyll
+Join us in building a brighter future through technology and innovation!
